@@ -15,11 +15,11 @@ public class Main {
                 resultArray[i] = array[i - 3];
             }
 
-            // Print the modified array using for each loop
+            // Print the modified array using "for each" loop
             // for (int num : resultArray) {
             //     System.out.print(num+" ");
             // }
-            for(int i=0;i<resultArray.length;i++)
+            for(int i=0;i<resultArray.length;i++) //print modified array using for loop
             {
                 System.out.print(resultArray[i]+" ");
             }
