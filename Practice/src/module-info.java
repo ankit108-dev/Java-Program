@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author KIIT
- *
- */
-module Practice {
-}
